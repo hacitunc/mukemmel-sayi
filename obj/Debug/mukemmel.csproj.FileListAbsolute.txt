@@ -1,0 +1,7 @@
+c:\users\exper\source\repos\mukemmel\mukemmel\bin\Debug\mukemmel.exe.config
+c:\users\exper\source\repos\mukemmel\mukemmel\bin\Debug\mukemmel.exe
+c:\users\exper\source\repos\mukemmel\mukemmel\bin\Debug\mukemmel.pdb
+c:\users\exper\source\repos\mukemmel\mukemmel\obj\Debug\mukemmel.csprojResolveAssemblyReference.cache
+c:\users\exper\source\repos\mukemmel\mukemmel\obj\Debug\mukemmel.csproj.CoreCompileInputs.cache
+c:\users\exper\source\repos\mukemmel\mukemmel\obj\Debug\mukemmel.exe
+c:\users\exper\source\repos\mukemmel\mukemmel\obj\Debug\mukemmel.pdb
